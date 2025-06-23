@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>System Dynamics Final Project – README</title>
-    <style>
-        body { font-family: Arial, Helvetica, sans-serif; line-height: 1.6; margin: 1.5rem; }
-        h1, h2, h3 { color: #003366; }
-        code { background: #f4f4f4; padding: 2px 4px; border-radius: 4px; }
-        pre { background: #f4f4f4; padding: 8px; overflow-x: auto; border-radius: 6px; }
-        table { border-collapse: collapse; width: 100%; margin-bottom: 1rem; }
-        th, td { border: 1px solid #ddd; padding: 6px; text-align: left; }
-        th { background: #e6f0ff; }
-        .note { font-style: italic; color: #666; }
-    </style>
-</head>
-<body>
-
 <h1>System Dynamics Final Project</h1>
 <p><strong>Author:</strong> Juseong Kim (김주성, 2020103515) – Mechanical Engineering, Kyung Hee University</p>
 <p class="note">Repository README generated on 23&nbsp;Jun&nbsp;2025 (KST).</p>
