@@ -31,13 +31,5 @@
 </tbody>
 </table>
 
-<h2>3. Results Snapshot</h2>
-<p>Typical error values on an Intel i7‑12700H:</p>
-<table>
-<thead><tr><th>Metric</th><th>Value</th></tr></thead>
-<tbody>
-<tr><td>MAE (|ΔX<sub>2</sub>|)</td><td>≈ 1.2 × 10<sup>‑3</sup>&nbsp;m</td></tr>
-<tr><td>RMSE</td><td>≈ 2.1 × 10<sup>‑3</sup>&nbsp;m</td></tr>
-</tbody>
-</table>
-<p>See the generated figure for the full error curve.</p>
+<h2>3. additional</h2>
+<p>The license for this project problem rests with a mechanical engineering professor at Kyung Hee University</p>
