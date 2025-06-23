@@ -17,8 +17,7 @@
 <ul>
 <li>Derives the equations of motion (EoMs) symbolically.</li>
 <li>Integrates the system with <code>solve_ivp</code> (RK45) for two different time‑step settings: <strong>1000&nbsp;steps</strong> (&Delta;t&nbsp;=&nbsp;1&nbsp;ms) and <strong>3000&nbsp;steps</strong> (&Delta;t&nbsp;=&nbsp;0.333&nbsp;ms).</li>
-<li>Compares the X<sub>2</sub> slider displacement against pre‑computed CSV references (<code>pendulum_data.csv</code>, <code>pendulum_data3000.csv</code>).</li>
-<li>Plots error metrics &amp; saves results to <code>figures/x2_accuracy.png</code>.</li>
+<li>Compares the X<sub>2</sub> slider displacement against pre‑computed CSV references (<code>pendulum_data.csv</code>, <code>pendulum_data_embedded.csv</code>, <code>pendulum_data3000.csv</code>).</li>
 </ul>
 
 <h2>2. Data Description</h2>
