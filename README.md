@@ -1,6 +1,5 @@
 <h1>System Dynamics Final Project</h1>
-<p><strong>Author:</strong> Juseong Kim (김주성, 2020103515) – Mechanical Engineering, Kyung Hee University</p>
-<p class="note">Repository README generated on 23&nbsp;Jun&nbsp;2025 (KST).</p>
+<p><strong>Author:</strong> Juseong Kim (김주성) – Mechanical Engineering, Kyung Hee University</p>
 
 <!-- Pendulum simulation (animated GIF) -->
 <figure style="text-align:center; margin: 1.5rem 0;">
