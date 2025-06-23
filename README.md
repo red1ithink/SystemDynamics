@@ -24,7 +24,7 @@
 <table>
 <thead><tr><th>File</th><th>Columns</th><th>Description</th></tr></thead>
 <tbody>
-<tr><td><code>pendulum_data.csv</code></td><td>t, X2, θ3, θ4, …</td><td>Baseline solution (1000 steps)</td></tr>
+<tr><td><code>pendulum_data.csv</code></td><td>t, X2, θ3, θ4, …</td><td>Augmented solution (1000 steps)</td></tr>
 <tr><td><code>pendulum_data_embedded.csv</code></td><td>t, X2, θ3, θ4, …</td><td>Embedded method solution (1000 steps)</td></tr>
 <tr><td><code>pendulum_data3000.csv</code></td><td>t, X2, θ3, θ4, …</td><td>Fine‑step solution (3000 steps)</td></tr>
 </tbody>
